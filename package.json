@@ -32,7 +32,8 @@
   "dependencies": {
     "express": "^4.16.2",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "semantic-ui": "^2.2.13"
   },
   "devDependencies": {
     "babel-cli": "^6.7.5",
@@ -43,6 +44,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "babel-register": "^6.7.2",
+    "fs-extra": "^5.0.0",
     "nodemon": "^1.14.11",
     "webpack": "^3.10.0"
   }
